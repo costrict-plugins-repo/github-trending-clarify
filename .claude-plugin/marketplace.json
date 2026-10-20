@@ -1,0 +1,17 @@
+{
+  "name": "otar",
+  "owner": {
+    "name": "Otar Chekurishvili",
+    "url": "https://github.com/otar"
+  },
+  "plugins": [
+    {
+      "name": "clarify",
+      "source": "./",
+      "description": "Asks structured clarifying questions in rounds until the task is unambiguous, before any code or output. Leans toward asking. Manually invoked only.",
+      "version": "1.1.0",
+      "category": "productivity",
+      "keywords": ["clarification", "planning", "workflow"]
+    }
+  ]
+}
